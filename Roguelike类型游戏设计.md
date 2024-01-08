@@ -20,7 +20,8 @@ Rogue流程控制类BP_GameManager，主要负责类吸血鬼幸存者类型Rogu
 $$
 (level * 0.7 + 1) * 50
 $$
-![image-20240104164410707](G:\PJT\InsideSurvivorsRoguelike\Resources\image-20240104164410707.png)
+
+![image-20240104164410707](..\Resources\image-20240104164410707.png)
 
 这里仅是为了保障在每级的时候都能有足量的经验升级挑战。
 
